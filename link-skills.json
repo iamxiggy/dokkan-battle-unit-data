@@ -1,0 +1,667 @@
+[
+  {
+    "value": "23",
+    "name": "All in the Family",
+    "description": "DEF +15%"
+  },
+  {
+    "value": "35",
+    "name": "Android Assault",
+    "description": "DEF +10%"
+  },
+  {
+    "value": "33",
+    "name": "Attack of the Clones",
+    "description": "Ki +1"
+  },
+  {
+    "value": "105",
+    "name": "Auto Regeneration",
+    "description": "Recover 3% HP"
+  },
+  {
+    "value": "64",
+    "name": "Battlefield Diva",
+    "description": "Ki +2"
+  },
+  {
+    "value": "49",
+    "name": "Berserker",
+    "description": "ATK +20% when HP is 50% or below"
+  },
+  {
+    "value": "50",
+    "name": "Big Bad Bosses",
+    "description": "ATK & DEF +25% when HP is 80% or below"
+  },
+  {
+    "value": "1000",
+    "name": "Blazing Battle",
+    "description": "Disables enemy's Rampage, and ATK +15%"
+  },
+  {
+    "value": "57",
+    "name": "Bombardment",
+    "description": "ATK +15%"
+  },
+  {
+    "value": "8",
+    "name": "Brainiacs",
+    "description": "ATK & DEF +10%"
+  },
+  {
+    "value": "18",
+    "name": "Brutal Beatdown",
+    "description": "ATK +10%"
+  },
+  {
+    "value": "82",
+    "name": "Budding Warrior",
+    "description": "ATK +10%"
+  },
+  {
+    "value": "44",
+    "name": "Champion's Strength",
+    "description": "Ki +1"
+  },
+  {
+    "value": "39",
+    "name": "Cold Judgment",
+    "description": "DEF +20%"
+  },
+  {
+    "value": "79",
+    "name": "Connoisseur",
+    "description": "Recover 5% HP"
+  },
+  {
+    "value": "92",
+    "name": "Cooler's Armored Squad",
+    "description": "ATK +25%"
+  },
+  {
+    "value": "91",
+    "name": "Cooler's Underling",
+    "description": "Ki +1"
+  },
+  {
+    "value": "2",
+    "name": "Courage",
+    "description": "Ki +1"
+  },
+  {
+    "value": "32",
+    "name": "Coward",
+    "description": "Ki +1"
+  },
+  {
+    "value": "5",
+    "name": "Crane School",
+    "description": "ATK +15%"
+  },
+  {
+    "value": "107",
+    "name": "Deficit Boost",
+    "description": "ATK +15%"
+  },
+  {
+    "value": "7",
+    "name": "Demonic Power",
+    "description": "ATK +20%"
+  },
+  {
+    "value": "6",
+    "name": "Demonic Ways",
+    "description": "Ki +1"
+  },
+  {
+    "value": "98",
+    "name": "Destroyer of the Universe",
+    "description": "ATK +25%"
+  },
+  {
+    "value": "66",
+    "name": "Dismal Future",
+    "description": "Ki +1"
+  },
+  {
+    "value": "46",
+    "name": "Dodon Ray",
+    "description": "ATK +10% when performing a Super Attack"
+  },
+  {
+    "value": "81",
+    "name": "Energy Absorption",
+    "description": "Ki +2"
+  },
+  {
+    "value": "11",
+    "name": "Evil Autocrats",
+    "description": "Ki +1"
+  },
+  {
+    "value": "30",
+    "name": "Experienced Fighters",
+    "description": "ATK +10%"
+  },
+  {
+    "value": "61",
+    "name": "Family Ties",
+    "description": "Ki +2"
+  },
+  {
+    "value": "120",
+    "name": "Fear and Faith",
+    "description": "Ki +2"
+  },
+  {
+    "value": "109",
+    "name": "Fierce Battle",
+    "description": "ATK +15%"
+  },
+  {
+    "value": "12",
+    "name": "Flee",
+    "description": "Ki +1 when HP is 30% or below"
+  },
+  {
+    "value": "111",
+    "name": "Formidable Enemy",
+    "description": "ATK +10%"
+  },
+  {
+    "value": "101",
+    "name": "Fortuneteller Baba’s Fighter",
+    "description": "Ki +2"
+  },
+  {
+    "value": "51",
+    "name": "Frieza's Army",
+    "description": "DEF +20%"
+  },
+  {
+    "value": "43",
+    "name": "Frieza's Minion",
+    "description": "ATK +20%"
+  },
+  {
+    "value": "112",
+    "name": "Fused Fighter",
+    "description": "Ki +2"
+  },
+  {
+    "value": "106",
+    "name": "Fusion",
+    "description": "Ki +2"
+  },
+  {
+    "value": "113",
+    "name": "Fusion Failure",
+    "description": "Recover 3% HP"
+  },
+  {
+    "value": "75",
+    "name": "Galactic Visitor",
+    "description": "Ki +1"
+  },
+  {
+    "value": "88",
+    "name": "Galactic Warriors",
+    "description": "ATK +20%"
+  },
+  {
+    "value": "56",
+    "name": "Gaze of Respect",
+    "description": "Ki +2"
+  },
+  {
+    "value": "17",
+    "name": "Gentleman",
+    "description": "Ki +2"
+  },
+  {
+    "value": "80",
+    "name": "Godly Power",
+    "description": "ATK +15%"
+  },
+  {
+    "value": "9",
+    "name": "Golden Warrior",
+    "description": "All enemies' DEF -5% and Ki +1"
+  },
+  {
+    "value": "1002",
+    "name": "Golden Z-Fighter",
+    "description": "Ki +2"
+  },
+  {
+    "value": "95",
+    "name": "GT",
+    "description": "Ki +2"
+  },
+  {
+    "value": "102",
+    "name": "Guidance of the Dragon Balls",
+    "description": "ATK +20%"
+  },
+  {
+    "value": "104",
+    "name": "Hardened Grudge",
+    "description": "Ki +1"
+  },
+  {
+    "value": "115",
+    "name": "Hatred of Saiyans",
+    "description": "Ki +2"
+  },
+  {
+    "value": "15",
+    "name": "Hero",
+    "description": "DEF + 20%"
+  },
+  {
+    "value": "93",
+    "name": "Hero of Justice",
+    "description": "ATK +25%"
+  },
+  {
+    "value": "1",
+    "name": "High Compatibility",
+    "description": "Ki +1"
+  },
+  {
+    "value": "42",
+    "name": "Infighter",
+    "description": "ATK +10% and all enemies' DEF -10%"
+  },
+  {
+    "value": "110",
+    "name": "Infinite Energy",
+    "description": "Ki +2"
+  },
+  {
+    "value": "96",
+    "name": "Infinite Regeneration",
+    "description": "Recover 3% HP"
+  },
+  {
+    "value": "47",
+    "name": "Kamehameha",
+    "description": "ATK +5% when performing a Super Attack"
+  },
+  {
+    "value": "125",
+    "name": "Legendary Power",
+    "description": "ATK +10% when performing a Super Attack"
+  },
+  {
+    "value": "116",
+    "name": "Limit-Breaking Form",
+    "description": "ATK +5% when performing a Super Attack"
+  },
+  {
+    "value": "73",
+    "name": "Loyalty",
+    "description": "Ki +1"
+  },
+  {
+    "value": "83",
+    "name": "Majin",
+    "description": "ATK & DEF +10%"
+  },
+  {
+    "value": "77",
+    "name": "Majin Resurrection Plan",
+    "description": "Ki +2"
+  },
+  {
+    "value": "76",
+    "name": "Master of Magic",
+    "description": "ATK +15%"
+  },
+  {
+    "value": "38",
+    "name": "Mechanical Menaces",
+    "description": "Ki +1"
+  },
+  {
+    "value": "19",
+    "name": "Messenger from the Future",
+    "description": "ATK +5%"
+  },
+  {
+    "value": "28",
+    "name": "Metamorphosis",
+    "description": "Recover 5% HP"
+  },
+  {
+    "value": "10",
+    "name": "Money Money Money",
+    "description": "Ki +1"
+  },
+  {
+    "value": "14",
+    "name": "More Than Meets the Eye",
+    "description": "ATK +10%"
+  },
+  {
+    "value": "48",
+    "name": "Namekians",
+    "description": "Recover 5% HP"
+  },
+  {
+    "value": "21",
+    "name": "New",
+    "description": "ATK +20%"
+  },
+  {
+    "value": "72",
+    "name": "New Frieza Army",
+    "description": "ATK & DEF +20%"
+  },
+  {
+    "value": "119",
+    "name": "Nightmare",
+    "description": "ATK +10%"
+  },
+  {
+    "value": "67",
+    "name": "Organic Upgrade",
+    "description": "Ki +2"
+  },
+  {
+    "value": "129",
+    "name": "Otherworld Warriors",
+    "description": "ATK +20%"
+  },
+  {
+    "value": "58",
+    "name": "Over 9000",
+    "description": "ATK +10%"
+  },
+  {
+    "value": "89",
+    "name": "Over in a Flash",
+    "description": "Ki +3"
+  },
+  {
+    "value": "69",
+    "name": "Patrol",
+    "description": "Ki +2"
+  },
+  {
+    "value": "128",
+    "name": "Penguin Village Adventure",
+    "description": "ATK +15%"
+  },
+  {
+    "value": "103",
+    "name": "Power Bestowed by God",
+    "description": "ATK +5% when performing a Super Attack"
+  },
+  {
+    "value": "97",
+    "name": "Prepared for Battle",
+    "description": "Ki +2"
+  },
+  {
+    "value": "26",
+    "name": "Prodigies",
+    "description": "ATK +10%"
+  },
+  {
+    "value": "25",
+    "name": "Respect",
+    "description": "ATK +15%"
+  },
+  {
+    "value": "68",
+    "name": "Resurrection 'F'",
+    "description": "ATK +10%"
+  },
+  {
+    "value": "65",
+    "name": "Revival",
+    "description": "Ki +2"
+  },
+  {
+    "value": "40",
+    "name": "Royal Lineage",
+    "description": "Ki +1"
+  },
+  {
+    "value": "55",
+    "name": "RR Army",
+    "description": "ATK +10%"
+  },
+  {
+    "value": "63",
+    "name": "Saiyan Pride",
+    "description": "ATK +15%"
+  },
+  {
+    "value": "124",
+    "name": "Saiyan Roar",
+    "description": "ATK +25%"
+  },
+  {
+    "value": "22",
+    "name": "Saiyan Warrior Race",
+    "description": "ATK +5%"
+  },
+  {
+    "value": "114",
+    "name": "Scientist",
+    "description": "Ki +2"
+  },
+  {
+    "value": "127",
+    "name": "Shadow Dragons",
+    "description": "ATK +15%"
+  },
+  {
+    "value": "118",
+    "name": "Shattering the Limit",
+    "description": "Ki +2"
+  },
+  {
+    "value": "60",
+    "name": "Shocking Speed",
+    "description": "Ki +2"
+  },
+  {
+    "value": "94",
+    "name": "Signature Pose",
+    "description": "Ki +2"
+  },
+  {
+    "value": "37",
+    "name": "Solid Support",
+    "description": "ATK +10% and all enemies' DEF -15%"
+  },
+  {
+    "value": "1001",
+    "name": "Soul vs Soul",
+    "description": "Weakens Regeneration and Ki +1"
+  },
+  {
+    "value": "53",
+    "name": "Speedy Retribution",
+    "description": "ATK +10%"
+  },
+  {
+    "value": "84",
+    "name": "Strength in Unity",
+    "description": "Ki +1"
+  },
+  {
+    "value": "85",
+    "name": "Strongest Clan in Space",
+    "description": "Ki +2"
+  },
+  {
+    "value": "29",
+    "name": "Super Saiyan",
+    "description": "ATK +10%"
+  },
+  {
+    "value": "122",
+    "name": "Super Strike",
+    "description": "ATK +20%"
+  },
+  {
+    "value": "71",
+    "name": "Super-God Combat",
+    "description": "ATK +15%"
+  },
+  {
+    "value": "1003",
+    "name": "Supreme Power",
+    "description": "ATK & DEF +5% and activates Penetration"
+  },
+  {
+    "value": "16",
+    "name": "Supreme Warrior",
+    "description": "Ki +1"
+  },
+  {
+    "value": "54",
+    "name": "Tag Team of Terror",
+    "description": "ATK +15%"
+  },
+  {
+    "value": "62",
+    "name": "Team Bardock",
+    "description": "Ki +1"
+  },
+  {
+    "value": "100",
+    "name": "Team Turles",
+    "description": "Ki +1"
+  },
+  {
+    "value": "13",
+    "name": "Telekinesis",
+    "description": "All enemies' DEF -10%"
+  },
+  {
+    "value": "24",
+    "name": "Telepathy",
+    "description": "Ki +1"
+  },
+  {
+    "value": "117",
+    "name": "The First Awakened",
+    "description": "ATK +25%"
+  },
+  {
+    "value": "41",
+    "name": "The Ginyu Force",
+    "description": "ATK + 25%"
+  },
+  {
+    "value": "87",
+    "name": "The Hera Clan",
+    "description": "Ki +2"
+  },
+  {
+    "value": "90",
+    "name": "The Incredible Adventure",
+    "description": "Ki +2"
+  },
+  {
+    "value": "4",
+    "name": "The Innocents",
+    "description": "ATK +10%"
+  },
+  {
+    "value": "34",
+    "name": "The Saiyan Lineage",
+    "description": "Ki +1"
+  },
+  {
+    "value": "3",
+    "name": "The Students",
+    "description": "DEF +20%"
+  },
+  {
+    "value": "1004",
+    "name": "The Wall Standing Tall",
+    "description": "Foils enemy's \"True Power\" and boosts ATK by 15%"
+  },
+  {
+    "value": "86",
+    "name": "Thirst for Conquest",
+    "description": "ATK +15%"
+  },
+  {
+    "value": "52",
+    "name": "Tough as Nails",
+    "description": "DEF +15%"
+  },
+  {
+    "value": "130",
+    "name": "Tournament of Power",
+    "description": "Ki +3"
+  },
+  {
+    "value": "123",
+    "name": "Transform",
+    "description": "Ki +2"
+  },
+  {
+    "value": "36",
+    "name": "Turtle School",
+    "description": "ATK & DEF +10%"
+  },
+  {
+    "value": "31",
+    "name": "Twin Terrors",
+    "description": "Ki +2"
+  },
+  {
+    "value": "108",
+    "name": "Ultimate Lifeform",
+    "description": "Ki +2"
+  },
+  {
+    "value": "74",
+    "name": "Unbreakable Bond",
+    "description": "Ki +2"
+  },
+  {
+    "value": "59",
+    "name": "Universe’s Most Malevolent",
+    "description": "ATK +15%"
+  },
+  {
+    "value": "70",
+    "name": "Warrior Gods",
+    "description": "ATK +10%"
+  },
+  {
+    "value": "126",
+    "name": "Warriors of Universe 6",
+    "description": "Ki +2"
+  },
+  {
+    "value": "27",
+    "name": "World Tournament Champion",
+    "description": "Ki +1"
+  },
+  {
+    "value": "20",
+    "name": "World Tournament Reborn",
+    "description": "ATK +15%"
+  },
+  {
+    "value": "121",
+    "name": "Xenoverse",
+    "description": "ATK +20%"
+  },
+  {
+    "value": "45",
+    "name": "Z Fighters",
+    "description": "ATK +15%"
+  }
+]
