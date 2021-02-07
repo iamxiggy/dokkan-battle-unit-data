@@ -10,3 +10,5 @@ It's been a while since I've worked on this but I'm thinking it was somewhere ar
 * Transformation data is missing
 * "before_eza"/"after_eza" data was added later and was a WIP when I left off
 * A lot of units that are named the same, but are different types, aren't present
+
+Again, this is messy, this is incomplete, but do with it what you want.
